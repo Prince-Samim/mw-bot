@@ -9,7 +9,7 @@ app = Flask(__name__)
 # --- CONFIGURATION ---
 BOT_TOKEN = os.environ.get("8669291841:AAGJzGF5ZVb95ypH8_GWIFWOGnOt4DbDY84")
 CHAT_ID = os.environ.get("@MWjobalart")
-SESSION_ID = os.environ.get("b9nuin9bpn89r323j1dpfegogk")
+SESSION_ID = os.environ.get("kmq6pig62tpmmjd5gbsh4gsbru")
 
 scraper = cloudscraper.create_scraper()
 old_jobs = set()
