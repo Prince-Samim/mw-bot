@@ -9,7 +9,7 @@ app = Flask(__name__)
 # CONFIGURATION
 BOT_TOKEN = os.environ.get("8669291841:AAGJzGF5ZVb95ypH8_GWIFWOGnOt4DbDY84")
 CHAT_ID = os.environ.get("@MWjobalart")
-SESSION_ID = os.environ.get("nj5j5qkj5b5irjf3okji6hega4")
+SESSION_ID = os.environ.get("r1vki8jd6iqvm5e0kucqoudpa9")
 
 # Cloudflare bypass korar jonno scraper
 scraper = cloudscraper.create_scraper(
